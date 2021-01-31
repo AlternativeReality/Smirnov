@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Tabs</string>
+    <string name = "connectionErr">Ошибка загрузки. Нажмите NEXT для обновления</string>
+</resources>
